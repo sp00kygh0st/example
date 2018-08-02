@@ -3,7 +3,7 @@ package foobar
 import (
 	"fmt"
 
-	"github.com/sp00kygh0st/example/internal/pkg/other"
+	"example/internal/pkg/other"
 )
 
 type Thing struct{}
