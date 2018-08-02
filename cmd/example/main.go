@@ -9,5 +9,5 @@ func main() {
 	foobar.Foobar()
 
 	x := xyzzy.NewXyzzy()
-	x.Run()
+	x.Run(":8080")
 }
